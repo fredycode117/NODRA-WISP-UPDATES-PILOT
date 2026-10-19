@@ -10,4 +10,5 @@ Metadata expires seven days after fixture preparation. This is intentional.
 
 No customer data, credentials, production keys or licenses belong here.
 The private product repository remains private.
-timestamp.json is withheld until the staging gate has been verified.
+timestamp.json was published after all seven staging dependencies passed the
+live HTTPS gate. See [PILOT-RESULTS.md](PILOT-RESULTS.md) for evidence and limits.
